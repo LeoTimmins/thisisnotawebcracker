@@ -5,4 +5,4 @@
 4. wait ages
 5. every now and then close and then reopen "data/success.txt"
 6. move any results into "words.txt"
-7. submit a pull request to my repository
+7. Send your words.txt file to EvilAndStuff on reddit
