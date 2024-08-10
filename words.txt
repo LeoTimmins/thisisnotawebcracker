@@ -19,6 +19,7 @@ Caryn
 Chip
 CIA
 cipher
+clone
 
 <Current Contributors>
 EvilAndStuff            | Line (1       : 100,000) | Current Line: 6379
