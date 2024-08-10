@@ -1,6 +1,6 @@
 <File storing every known word>
 
-[AAA : FAN] EvilAndStuff
+[AAA : FLO] EvilAndStuff
 Alex
 algebra
 answer
@@ -37,8 +37,25 @@ divorse
 Doge
 Elon
 Euclid
+FBI
 
-[SIX : ZZZ] Yea_i_play_Minecraft + his friend
+[HEC:HOR]
+hectoring
+hirsch
+history
+hologram
+horror
+
+[SHI : WHO] Yea_i_play_Minecraft + his friend
+scalene
+scary
+scientology
+seven-eyes
+sex
+sex-
+shape
+shapes
+shit
 sixer
 skeleton
 slut
@@ -66,7 +83,6 @@ weird
 wendy
 whore
 who're
-
 
 
 <Current Contributors>
