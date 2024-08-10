@@ -1,6 +1,6 @@
 <File storing every known word>
 
-[AAA : DEV] EvilAndStuff
+[AAA : DIS] EvilAndStuff
 Alex
 algebra
 answer
@@ -31,6 +31,8 @@ daddy
 Death
 Dick
 dipper
+Disney
+Disneyland
 
 [SIA : UNR] Yea_i_play_Minecraft
 sixer
@@ -55,6 +57,7 @@ weird
 wendy
 whore
 who're
+
 
 
 <Current Contributors>
