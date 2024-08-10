@@ -1,6 +1,6 @@
 <File storing every known word>
 
-[AAA : DIS] EvilAndStuff
+[AAA : DIV] EvilAndStuff
 Alex
 algebra
 answer
@@ -33,6 +33,7 @@ Dick
 dipper
 Disney
 Disneyland
+divorse 
 
 [SIA : UNR] Yea_i_play_Minecraft
 sixer
