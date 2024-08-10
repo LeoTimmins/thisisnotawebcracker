@@ -21,9 +21,16 @@ CIA
 cipher
 clone
 conspiracy
+crypto
+crypto-
+cum
+cunt
+cursed
+daddy
+Death
 
 <Current Contributors>
-EvilAndStuff            | Line (1       : 100,000) | Current Line: 16161
+EvilAndStuff            | Line (1       : 100,000) | Current Line: 30,141
 InsertYourNameHere      | Line (100,001 : 200,000)
 InsertYourNameHere      | Line (200,001 : 300,000)
 Yea_i_play_Minecraft    | Line (300,001 : 399,784) | Current Line: 

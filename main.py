@@ -33,7 +33,7 @@ dict_file = open(input_file, 'r').read()
 success_file = open(output_file, 'w')
 
 success_file.write("<Temporary file to store output>\n")
-success_file.write("<Warning! Will rewrite every time the script it run so store codes in /words.txt>\n\n")
+success_file.write("<Warning! Will rewrite every time the script runs so store codes in /words.txt>\n\n")
 success_file.flush()
 
 for line in dict_file.split("\n")[START_LINE-1:]:
