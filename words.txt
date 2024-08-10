@@ -16,3 +16,10 @@ Burnside
 Card
 Card.
 Caryn
+Chip
+
+<Current Contributors>
+EvilAndStuff            | Line (1       : 100,000) | Current Line: 2751
+InsertYourNameHere      | Line (100,001 : 200,000)
+InsertYourNameHere      | Line (200,001 : 300,000)
+InsertYourNameHere      | Line (300,001 : 399,784)
