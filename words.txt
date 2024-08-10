@@ -1,6 +1,6 @@
 <File storing every known word>
 
-[AAA : DIV] EvilAndStuff
+[AAA : EDE] EvilAndStuff
 Alex
 algebra
 answer
@@ -36,7 +36,7 @@ Disneyland
 divorse 
 Doge
 
-[SIA : UNR] Yea_i_play_Minecraft
+[SIX : TRU] Yea_i_play_Minecraft
 sixer
 skeleton
 slut
@@ -49,9 +49,17 @@ stanford
 stanley
 tantrum
 theory
+Tyrone
+tits
+Triangle
+trigonometry
+Truelove
+true-love
+
 
 [UNI : WHO] Yea_i_play_Minecraft's helpful friend
 union made
+universe
 unreality
 virus
 waddles
