@@ -1,5 +1,8 @@
 import requests
 import time
+import settings
+
+START_LINE = settings.START_LINE
 
 # File paths
 input_file = 'data/dict.txt'
@@ -26,28 +29,32 @@ headers = {
     'content-length': '139'
 }
 
-# Open the input dictionary file and the output file
-with open(input_file, 'r') as dict_file, open(output_file, 'w') as success_file:
-    # Read the file line by line
-    for line in dict_file:
-        while True:
-            #time.sleep(0.1)
-            code = line.strip()  # Remove any extra whitespace or newlines
+dict_file = open(input_file, 'r').read()
+success_file = open(output_file, 'w')
 
-            # Construct the multipart form-data payload
-            data = f'------WebKitFormBoundaryR8RLEBQUI6vWHqZi\r\nContent-Disposition: form-data; name="code"\r\n\r\n{code}\r\n------WebKitFormBoundaryR8RLEBQUI6vWHqZi--\r\n'
+success_file.write("<Temporary file to store output>")
+success_file.write("<Warning! Will rewrite every time the script it run so store codes in /words.txt>")
+success_file.write("\n")
 
-            # Send the POST request
-            response = requests.post(url, headers=headers, data=data)
-            print(f"{response.status_code} : {code}")
-            # Check the response status
-            if response.status_code != 404 and response.status_code != 429:
-                success_file.write(code + '\n')
-                success_file.flush()
-            if response.status_code != 429:
-                break
-            else:
-                print("429 Too many requests")
-                time.sleep(1)
+for line in dict_file.split("\n")[START_LINE-1:]:
+    while True:
+        #time.sleep(0.1)
+        code = line.strip()
+
+        # Construct the multipart form-data payload
+        data = f'------WebKitFormBoundaryR8RLEBQUI6vWHqZi\r\nContent-Disposition: form-data; name="code"\r\n\r\n{code}\r\n------WebKitFormBoundaryR8RLEBQUI6vWHqZi--\r\n'
+
+
+        response = requests.post(url, headers=headers, data=data)
+        print(f"{response.status_code} : {code}")
+
+        if response.status_code != 404 and response.status_code != 429:
+            success_file.write(code + '\n')
+            success_file.flush()
+        if response.status_code != 429:
+            break
+        else:
+            print("429 Too many requests")
+            time.sleep(1)
 
 print("Script finished running.")

@@ -1,3 +1,5 @@
+<File storing every known word>
+
 Alex
 algebra
 answer
