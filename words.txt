@@ -1,6 +1,6 @@
 <File storing every known word>
 
-[AAA : EDE] EvilAndStuff
+[AAA : ELE] EvilAndStuff
 Alex
 algebra
 answer
@@ -36,7 +36,7 @@ Disneyland
 divorse 
 Doge
 
-[SIX : TRU] Yea_i_play_Minecraft
+[SIX : ZZZ] Yea_i_play_Minecraft + his friend
 sixer
 skeleton
 slut
@@ -55,9 +55,6 @@ Triangle
 trigonometry
 Truelove
 true-love
-
-
-[UNI : WHO] Yea_i_play_Minecraft's helpful friend
 union made
 universe
 unreality
