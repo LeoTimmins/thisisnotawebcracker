@@ -1,6 +1,6 @@
 <File storing every known word>
 
-[AAA : FLO] EvilAndStuff
+[AAA : FOR] EvilAndStuff
 Alex
 algebra
 answer
@@ -38,8 +38,17 @@ Doge
 Elon
 Euclid
 FBI
-
-[HEC:HOR]
+Ford
+fuck
+gangbang
+geometry
+gyatt
+Gideon
+glory-hole
+God
+Greece
+Greek
+Gun
 hectoring
 hirsch
 history
