@@ -1,3 +1,5 @@
 <Temporary file to store output>
 <Warning! Will rewrite every time the script it run so store codes in /words.txt>
 
+Dick
+dipper
