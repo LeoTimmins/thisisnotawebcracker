@@ -1,6 +1,6 @@
 <File storing every known word>
 
-[AAA : ELE] EvilAndStuff
+[AAA : FAN] EvilAndStuff
 Alex
 algebra
 answer
@@ -36,6 +36,7 @@ Disneyland
 divorse 
 Doge
 Elon
+Euclid
 
 [SIX : ZZZ] Yea_i_play_Minecraft + his friend
 sixer
