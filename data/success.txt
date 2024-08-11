@@ -1,24 +1,3 @@
 <Temporary file to store output>
-<Warning! Will rewrite every time the script it run so store codes in /words.txt>
+<Warning! Will rewrite every time the script runs so store codes in /words.txt>
 
-Dick
-dipper
-Disney
-Disneyland
-divorce
-Doge
-Elon
-Euclid
-FBI
-FORD
-fuck
-gangbang
-geometry
-Gyatt
-Gideon
-glory-hole
-God
-Greece
-Greek
-Gun
-hectoring
